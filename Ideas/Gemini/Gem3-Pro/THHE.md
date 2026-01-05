@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a26d286f-9cd2-423f-9a05-1f371a9b1f60)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/01991885-e7af-41d0-a1ac-4c818706ef50" />
 
 ---
 # The Tensor-Holographic Homeostatic Engine (THHE)
