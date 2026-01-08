@@ -1,4 +1,6 @@
-# $\mathcal{O}$-Entropia: A Stochastic Neuromorphic Consensus Framework via Variational Free Energy Minimization
+![image](https://github.com/user-attachments/assets/f16617b9-5d58-4092-b779-94706f35231c)
+
+> $\mathcal{O}$-Entropia: A Stochastic Neuromorphic Consensus Framework via Variational Free Energy Minimization
 
 **Abstract**
 This thesis proposes **$\mathcal{O}$-Entropia**, a novel architectural workflow for Decentralized Autonomous Organizations (DAOs) and distributed computing systems. Unlike traditional Proof-of-Work (PoW) or Proof-of-Stake (PoS) mechanisms, $\mathcal{O}$-Entropia utilizes **Proof-of-Learning (PoL)** based on the **Free Energy Principle (FEP)**. It maps the thermodynamic problem of entropy minimization to the Byzantine Fault Tolerance (BFT) domain. Nodes achieve consensus by minimizing the Kullback-Leibler (KL) divergence between their internal generative models and the global ledger state, secured via Zero-Knowledge Succinct Non-Interactive Arguments of Knowledge (zk-SNARKs).
