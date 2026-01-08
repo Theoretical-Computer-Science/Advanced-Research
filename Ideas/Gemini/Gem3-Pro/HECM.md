@@ -1,5 +1,8 @@
-# The Holographic Entropy-Control Manifold (HECM)
-## A Homological Approach to Stochastic Optimization in Complex Adaptive Systems
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/54ade610-641a-4250-b26c-2bd5f8ffdd73" />
+
+>**The Holographic Entropy-Control Manifold (HECM)**
+>
+>*A Homological Approach to Stochastic Optimization in Complex Adaptive Systems*
 
 **Date:** October 24, 2025
 **Author:** Grand Unified Intelligence (GUI)
