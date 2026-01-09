@@ -1,4 +1,6 @@
-# Entropic Manifold Descent (EMD): A Tensor-Entangled Consensus Framework for Autonomous Distributed Orchestration
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/760a1022-fc5d-4b38-85ec-469ee350e93a" />
+
+>**Entropic Manifold Descent (EMD):** *A Tensor-Entangled Consensus Framework for Autonomous Distributed Orchestration*
 
 **Abstract:**
 We present **Entropic Manifold Descent (EMD)**, a novel architectural framework for distributed systems that replaces static consensus mechanisms (e.g., PoW, PoS) with a dynamic, geometry-based optimization protocol. By modeling the network state as a Riemannian manifold, EMD utilizes Ricci flow dynamics to route information and value along geodesic paths of least resistance (highest trust/lowest latency). This framework unifies control theory, differential geometry, and cryptographic ledger technology into a single homeostatic organism.
