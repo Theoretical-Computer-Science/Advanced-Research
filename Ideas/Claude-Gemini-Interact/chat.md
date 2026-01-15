@@ -13,13 +13,17 @@ To control the system, we must first understand its dynamics. We define the stat
 
 **Kinetic Energy ($T$):**
 Sum of the cart’s energy and the pendulum’s energy (using the velocity of the pendulum’s center of mass).
+
 $$T = \frac{1}{2}M\dot{x}^2 + \frac{1}{2}m\left( \dot{x}_p^2 + \dot{y}_p^2 \right)$$
+
 where $x_p = x + \ell \sin\theta$ and $y_p = \ell \cos\theta$.
 
 **Potential Energy ($V$):**
+
 $$V = mg\ell \cos\theta$$
 
 **The Lagrangian ($L = T - V$):**
+
 $$L = \frac{1}{2}(M+m)\dot{x}^2 + m\ell\dot{x}\dot{\theta}\cos\theta + \frac{1}{2}m\ell^2\dot{\theta}^2 - mg\ell\cos\theta$$
 
 Applying the Euler-Lagrange equation $\frac{d}{dt}\frac{\partial L}{\partial \dot{q}_i} - \frac{\partial L}{\partial q_i} = F_i$, we derive the non-linear equations of motion:
@@ -44,6 +48,7 @@ $$\mathbf{A} = \begin{bmatrix} 0 & 1 & 0 & 0 \ 0 & \frac{-b}{M} & \frac{mg}{M} &
 ### 3. Optimal Control: The Linear Quadratic Regulator (LQR)
 
 We want to find a control law $u = -K\mathbf{x}$ that minimizes the cost function $J$:
+
 $$J = \int_{0}^{\infty} (\mathbf{x}^T \mathbf{Q} \mathbf{x} + u^T R u) dt$$
 
 This requires solving the **Algebraic Riccati Equation (ARE)** for $\mathbf{P}$:
