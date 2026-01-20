@@ -1,7 +1,7 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/faaf5884-175a-4b99-8e76-13d2befe20e9" />
 
 
-# The Isomorphic Entropy-Gradient Network (IEGN)
+>**The Isomorphic Entropy-Gradient Network (IEGN)**
 ## A Topologically Resilient Framework for Distributed State Minimization
 
 ### Abstract
