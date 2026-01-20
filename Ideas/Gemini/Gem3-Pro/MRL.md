@@ -1,7 +1,7 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/462e80ca-1af2-44c5-8b57-bb44cdf9db0f" />
 
 
-# The Morphic-Resonance Ledger: A Homotopic Tensor Framework for Self-Organizing Distributed Consensus
+># The Morphic-Resonance Ledger: A Homotopic Tensor Framework for Self-Organizing Distributed Consensus
 
 **Abstract:**
 This thesis proposes the **Morphic-Resonance Ledger (MRL)**, a novel architectural framework unifying Homotopy Type Theory (HoTT), non-equilibrium thermodynamics, and Hebbian neuroplasticity into a singular distributed consensus mechanism. Unlike static Directed Acyclic Graphs (DAGs) or linear blockchains, the MRL utilizes a dynamic **Riemannian State Manifold** where consensus nodes function as "synaptic operators." These operators optimize global network topology via a gradient descent on a Free Energy landscape, achieving **Adaptive Sharding (Mitosis)** and **Self-Healing (Homeostasis)**. We present the mathematical proofs, algorithmic implementation, and structural diagrams required to instantiate this biological-computational isomorphism.
